@@ -10,6 +10,6 @@ Controls are classified as one of three general types, which are:
  * __Threat Monitoring, Mitigation & Reduction:__ Controls intended to reduce or identify and react to threats common to ransomware
  * __Backup & Recovery Survivability:__ Controls that are closely coupled with backup solution design and operation to reduce ransomware risk
 
-It is suggested this tool be used as a starting point for organizations, and that they perform their own risk rating and adjustments if deemed appropriate relative to their environment. To use the tool, simply score each yellow cell in the yellow Control Status column (E).
+It is suggested this tool be used as a starting point for organizations, and that they perform their own risk rating and adjustments if deemed appropriate relative to their environment. To use the tool, simply score each yellow cell in the yellow Control Status column (E) in the "Controls and Grades" sheet. Optionally, track comments, recommendations, priority, and remediation cost/effort ratings in columns G thru J.
 
 Though the sheet is protected to guide input, there is no password and protection can be removed to support adaptation to the specific needs of your environment, application of control importance weighting, etc.
